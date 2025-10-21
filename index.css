@@ -1,3 +1,7 @@
 body{
-    background-attachment: fixed;
+    background-color: aliceblue;
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    border: 0cap;
+    padding: 10px;
 }
